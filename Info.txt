@@ -1,0 +1,92 @@
+This diagram explains how a business calculates its Gross Profit and Operating Profit. These are two important concepts in accounting and data analytics, especially when you're analysing a company's financial performance.
+
+
+1. Revenue − Direct Costs = Gross Profit
+
+Revenue - Money earned from selling products.
+$10,000
+
+Direct Costs - Cost of buying or making the products sold.
+$4,000
+
+Gross Profit - What remains after direct costs.
+$6,000
+
+\[
+\$10,000-\$4,000=\$6,000
+\]
+
+
+Imagine you sell 200 T-shirts for $50 each.
+- Revenue = 200 × $50 = $10,000
+- Direct costs = buying those 200 T-shirts costs $4,000.
+- Gross profit = $10,000 − $4,000 = $6,000
+Notice that gross profit is not necessarily the money you keep. You still have other business expenses to pay.
+
+
+2. Gross Profit − Operating Expenses = Operating Profit
+
+Now, imagine the business also has these monthly expenses:
+
+Operating expense
+Shop rent	$1,000
+Employee wages	$2,000
+Advertising	$500
+Electricity and other running costs	$300
+Total operating expenses	$3,800
+
+Let's calculate the operating profit.
+GROSS PROFIT
+$6,000
+−
+OPERATING EXPENSES
+$3,800
+
+OPERATING PROFIT
+$2,200
+\[
+\$6,000-\$3,800=\$2,200
+\]
+
+
+The business has $2,200 in operating profit after paying its direct costs and operating expenses.
+
+Operating profit measures how much the business earns from its normal operations before accounting for items such as interest and income tax.
+3. Understand the whole picture
+Revenue
+$10,000
+
+Subtract direct costs
+−$4,000
+
+Gross Profit
+$6,000
+
+Subtract operating expenses
+−$3,800
+
+Operating Profit
+$2,200
+
+
+
+- Revenue: Which products generate the most sales?
+- Gross profit: Which products are profitable after their direct costs?
+- Operating profit: Is the business earning enough after its running expenses?
+- Profit margin: How much profit does the business make for every dollar of revenue?
+
+For example, in this scenario:
+Metric	Calculation	Result
+Gross profit margin	$6,000 ÷ $10,000 × 100	60%
+Operating profit margin	$2,200 ÷ $10,000 × 100	22%
+
+A 22% operating profit margin means the business generates 22 cents in operating profit for every $1 of revenue.
+
+One final distinction: operating profit is not always the same as net profit. 
+Interest, taxes and other non-operating items may still need to be accounted for.
+
+The easiest way to remember it:
+- Revenue = money coming in from sales.
+- Gross profit = sales money left after the direct costs of the products sold.
+- Operating profit = gross profit left after the expenses of running the business.
+- Net profit is generally what remains after subtracting taxes and other expenses from operating profit. (Net Profit = Profit Before Tax - Income Tax)
